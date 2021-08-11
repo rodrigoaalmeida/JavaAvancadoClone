@@ -2,3 +2,5 @@ paradigmaFuncional.java
  paradigmaFuncional
 ComposicaoDeFuncoes.java
  ComposicaoDeFuncoes
+FuncoesPuras.java
+ FuncoesPuras
